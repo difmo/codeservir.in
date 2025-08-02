@@ -11,7 +11,7 @@ export default function Footer() {
           <h2 className="text-white text-2xl font-bold mb-2">Codeservir.in</h2>
           <p className="text-sm">
             Your daily dose of tech, tutorials, tools, and career growth.
-            Focused on India's digital rise and empowering creators.
+            Focused on India&apos;s digital rise and empowering creators.
           </p>
         </div>
 
@@ -52,4 +52,3 @@ export default function Footer() {
     </footer>
   );
 }
- 
